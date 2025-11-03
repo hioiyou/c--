@@ -16,9 +16,5 @@
 
 ## 🚀 如何运行
 1. 克隆仓库到本地：
-
-## 后续计划
-1. 明天学习指针
-
    ```cmd
    git clone https://github.com/hioiyou/c--.git
