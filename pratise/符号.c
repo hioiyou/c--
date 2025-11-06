@@ -2,8 +2,8 @@
 
 int main(void)
 {
-	char op;
-	scanf("%c",&op);
-	printf("%d",op);
+	char a;
+	scanf("%c",&a);
+	printf("%d",a);
 	return 0;
 }
